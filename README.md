@@ -13,7 +13,7 @@ Ensure Python 3.x is installed.
 
 Clone the repository:
 
-git clone <repo-url>  
+git clone <https://github.com/epmubashira325-bot/NLP-Based-Intelligent-Chatbot>  
 
 Install dependencies:
 
